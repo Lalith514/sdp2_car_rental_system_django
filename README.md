@@ -1,8 +1,7 @@
 # Car_Rental_System
 Online Car Rental System.
 ## Screenshots
-### Home Page
-![home](https://cloud.githubusercontent.com/assets/13767521/17458380/5c871d58-5c30-11e6-9ea6-b4f804589d0b.png)
+
 
 ### After Login Homepage
 ![newly](https://cloud.githubusercontent.com/assets/13767521/17458302/b7c6c15c-5c2e-11e6-8cc8-b27faa0ace99.png)
